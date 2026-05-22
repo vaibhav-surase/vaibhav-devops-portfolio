@@ -33,7 +33,7 @@ Passionate about building scalable infrastructure, automating deployments, and i
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/vaibhav-surase-991a3a254/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
