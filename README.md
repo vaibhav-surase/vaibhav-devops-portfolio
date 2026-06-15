@@ -68,7 +68,7 @@ Passionate about building scalable infrastructure, automating deployments, and i
 
 ---
 
-# ☁️ Azure Projects
+# ☁️ Azure Project
 
 ## Azure Identity & Access Management Lab
 
@@ -85,29 +85,55 @@ Passionate about building scalable infrastructure, automating deployments, and i
 Microsoft Azure | Entra ID | RBAC | MFA | Conditional Access
 
 
+# DevOps Project
+
 🛒 ✅ E-Commerce CI/CD Project (DevOps)
 🚀 Automated CI/CD Deployment Pipeline — E-Commerce Platform
+
 📌 Project Overview
 
 Designed and implemented an end-to-end CI/CD pipeline for an E-Commerce application using modern DevOps tools. The pipeline automates build, test, containerization, and deployment processes across Kubernetes clusters.
 
+
+Reduced manual deployment effort
+
+Scalable containerized architecture
+
+Hands-on experience with production-grade DevOps tools
+
 ⚙️ Key Features
+
 Built complete CI/CD pipeline using Jenkins
+
 Containerized React (frontend) and Node.js (backend) applications
+
 Used multi-stage Docker builds to optimize image size and performance
+
 Automated build triggers and deployments via Jenkins Pipelines
+
 Pushed Docker images to Docker Hub
+
 Deployed applications on Kubernetes cluster
+
 Managed workloads using Deployments and Services
+
 Debugged using kubectl logs and kubectl describe
+
+
 🧰 Tech Stack
 
 Jenkins | Docker | Kubernetes | GitHub | Linux | React.js | Node.js | Docker Hub
 
 🔥 Architecture Flow (Simple)
+
 GitHub → Jenkins → Docker Build → Docker Hub → Kubernetes Deployment → Application Live
+
 🎯 Project Outcome
+
 Fully automated CI/CD pipeline
+
 Reduced manual deployment effort
+
 Scalable containerized architecture
+
 Hands-on experience with production-grade DevOps tools
