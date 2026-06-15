@@ -1,17 +1,20 @@
 # 👋 Hello, I'm Vaibhav Surase
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=DevOps+Engineer+%7C+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Building+Scalable+Cloud+Infrastructure&center=true&width=800&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=DevOps+Engineer+%7C+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Building+Scalable+Cloud+Infrastructure&center=true&width=800&height=50)](https://git.io/typing-svg)IAM+Administrator;Azure+Administrator;DevOps+Engineer;Microsoft+Azure;Entra+ID;RBAC;MFA;Docker;Kubernetes;Terraform;Jenkins
 
 ---
 
 # 🚀 About Me
 
-DevOps Engineer from 🇮🇳 India with 2+ years of experience in:
-- AWS Cloud Infrastructure
+IAM & Azure Administrator with hands-on experience in Microsoft Entra ID, Azure RBAC, MFA, Conditional Access and DevOps technologies.
+- Microsoft Azure
+- Microsoft Entra ID
+- Azure RBAC
+- Multi-Factor Authentication (MFA)
+- Conditional Access
 - Docker & Kubernetes
-- CI/CD Automation
 - Terraform & Infrastructure as Code
-- Linux Administration & Automation
+- CI/CD Automation
 
 Passionate about building scalable infrastructure, automating deployments, and improving cloud-native workflows.
 
@@ -20,7 +23,7 @@ Passionate about building scalable infrastructure, automating deployments, and i
 # 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,bash,vscode,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,jenkins,linux,git,github,bash,vscode,prometheus,grafana" />
 </p>
 
 ---
@@ -62,3 +65,22 @@ Passionate about building scalable infrastructure, automating deployments, and i
 ---
 
 💡 "Building scalable infrastructure through DevOps and automation."
+
+---
+
+# ☁️ Azure Projects
+
+## Azure Identity & Access Management Lab
+
+### Features
+
+- Created users and groups in Microsoft Entra ID
+- Configured Azure RBAC roles
+- Implemented Multi-Factor Authentication (MFA)
+- Tested Conditional Access Policies
+- Managed access permissions for Azure resources
+
+### Tech Stack
+
+Microsoft Azure | Entra ID | RBAC | MFA | Conditional Access
+
